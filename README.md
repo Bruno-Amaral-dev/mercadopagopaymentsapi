@@ -6,7 +6,7 @@ A Go backend API for processing card payments through MercadoPago.
 
 1. Copy the environment file:
 ```bash
-cp .env.example .env
+cp .env.example
 ```
 
 2. Install dependencies:
