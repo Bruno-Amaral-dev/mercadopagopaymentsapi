@@ -1,0 +1,47 @@
+[2025-12-08T19:51:49-03:00] {"action":"payment.updated","api_version":"v1","data":{"id":"123456"},"date_created":"2021-11-01T02:02:02Z","id":"123456","live_mode":false,"type":"payment","user_id":2941176011}
+[2025-12-08T19:53:08-03:00] {
+    "type": "payment",
+    "data": {
+        "id": "7294919"
+    }
+}
+[2025-12-08T19:53:23-03:00] {
+    "type": "payment",
+    "data": {
+        "id": "7294919"
+    }
+}
+[2025-12-08T19:54:39-03:00] {"action":"payment.updated","api_version":"v1","data":{"id":"123456"},"date_created":"2021-11-01T02:02:02Z","id":"123456","live_mode":false,"type":"payment","user_id":2941176011}
+[2025-12-15T10:23:19-03:00] {
+    "type": "payment",
+    "action": "payment.created",
+    "data": {
+      "id": "1234567890"
+    },
+    "live_mode": false
+  }
+[2025-12-15T10:25:34-03:00] {
+    "type": "payment",
+    "action": "payment.created",
+    "data": {
+      "id": "1234567890"
+    },
+    "live_mode": false
+  }
+[2025-12-15T10:26:50-03:00] {
+    "type": "payment",
+    "action": "payment.created",
+    "data": {
+      "id": "1234567890"
+    },
+    "live_mode": false
+  }
+[2025-12-15T10:29:29-03:00] {
+    "type": "payment",
+    "action": "payment.created",
+    "data": {
+      "id": "1234567890"
+    },
+    "live_mode": false
+  }
+[2025-12-15T10:31:24-03:00] {"action":"payment.updated","api_version":"v1","data":{"id":"123456"},"date_created":"2021-11-01T02:02:02Z","id":"123456","live_mode":false,"type":"payment","user_id":2941176011}
